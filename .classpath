@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Downloads/hadoop-0.20.2-cdh3u0-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Desktop/MR Localmode - jars/commons-cli-1.2.jar.zip"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Desktop/MR Localmode - jars/commons-httpclient-3.0.1.jar.zip"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Desktop/MR Localmode - jars/commons-logging-1.0.4.jar.zip"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Desktop/MR Localmode - jars/jackson-mapper-asl-1.5.2.jar.zip"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Desktop/MR Localmode - jars/log4j-1.2.15.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Downloads/jackson-core-asl-1.5.2.jar.zip"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Downloads/org-apache-commons-logging.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Downloads/jackson-mapper-asl-1.8.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="/home/edureka/Desktop/MR Localmode - jars/jackson-all-1.9.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
